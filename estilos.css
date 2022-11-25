@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=swap');
+
+html {
+    background-color: lightgray;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+
+}h1 {
+color: purple;
+}
+
+#elemento-1 {
+    color: red; font-size: 2rem;
+}
+
+#title {
+    font-family: 'Rubik Microbe', cursive;
+}
